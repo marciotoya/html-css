@@ -1,3 +1,7 @@
 @charset "UTF-8";
 
-/*Dispositivo deitado (portrat)*/
+/*Dispositivo de pé (portrait)*/
+
+body {
+    background-color: rgb(255, 81, 0);
+}

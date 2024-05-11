@@ -1,4 +1,7 @@
 @charset "UTF-8";
 
-/*parelho deitado (landscape)*/
+/*Aparelho deitado (landscape)*/
 
+body {
+    background-color: rgb(30, 255, 0);
+}
